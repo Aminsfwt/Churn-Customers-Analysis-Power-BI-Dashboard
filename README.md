@@ -75,7 +75,7 @@ The project aims to:
 
 ![Power BI Dashboard](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/2.PNG?raw=true)  
 
-![Power BI Dashboard]([images/power-query-cleaning.png](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/3.PNG?raw=true)) 
+![Power BI Dashboard](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/3.PNG?raw=true)
 ## Findings
 
 - **Overall Churn Rate**: Approximately 26-27% (based on typical telecom data; exact value from dataset).
