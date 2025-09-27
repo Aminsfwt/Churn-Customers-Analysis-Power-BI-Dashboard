@@ -69,7 +69,7 @@ The project aims to:
     - Date (Date, ID, Year, Quarter, Month, Day) – Created using DAX.
   - **Fact Table**: Churn Rate (Payment Method ID, Service ID, Customer ID, Date Key, Start Date, Monthly Charges, Total Charges, Churn).
 
-![Star Schema Model]([images/star-schema.png](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/Churn%20Data%20Model.PNG?raw=true))  
+![Star Schema Model](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/Churn%20Data%20Model.PNG?raw=true)  
 
 ### 3. Dashboard Building
 - Built visuals in Power BI to answer questions (e.g., bar charts for churn by contract, line charts for trends over time).
