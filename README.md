@@ -2,7 +2,7 @@
 
 
 
-https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/2.PNG?raw=true
+![image](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/2.PNG?raw=true)
 
 
 
