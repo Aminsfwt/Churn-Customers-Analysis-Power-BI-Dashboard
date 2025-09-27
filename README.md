@@ -56,9 +56,7 @@ The project aims to:
 ### 1. Data Upload and Cleaning
 - Upload the dataset (`churn analysis dataset.csv`) into Power BI.
 - Use Power Query to remove duplicates, blank rows, and handle missing values.
-
-![Power Query Cleaning](images/power-query-cleaning.png)  
-*(Upload your screenshot of Power Query Editor here.)*
+ 
 
 ### 2. Data Modeling
 - Designed a star schema model:
@@ -77,7 +75,7 @@ The project aims to:
 
 ![Power BI Dashboard](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/2.PNG?raw=true)  
 
-
+![Power BI Dashboard]([images/power-query-cleaning.png](https://github.com/Aminsfwt/Churn-Customers-Analysis-Power-BI-Dashboard/blob/main/3.PNG?raw=true)) 
 ## Findings
 
 - **Overall Churn Rate**: Approximately 26-27% (based on typical telecom data; exact value from dataset).
